@@ -45,13 +45,13 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="git" width="40" height="40"/> 
   </a>
    <a href="https://www.java.com/en/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="git" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="git" width="40" height="40"/> 
   </a>
    <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="git" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="git" width="40" height="40"/> 
   </a>
    <a href="https://www.postgresql.org/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" alt="git" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="git" width="40" height="40"/> 
   </a>
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="git" width="40" height="40"/> 
