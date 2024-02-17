@@ -2,9 +2,9 @@
 <h3 align="center">Full Stack web developer</h3>
 
 
-- My Personal [Website](https://www.arnaumarsino.com)
+- My Personal [Website](https://www.arnaumarsino.com){:target="_blank"}
   
-- Currently studying on [ITICBCN](https://www.linkedin.com/school/iticbcn/)
+- Currently studying on [ITICBCN](https://www.linkedin.com/school/iticbcn/){:target="_blank"}
 
 
 
@@ -12,8 +12,8 @@
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnau-marsino-747a43250/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnaumarsino1@gmail.com)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnau-marsino-747a43250/){:target="_blank"}
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnaumarsino1@gmail.com){:target="_blank"}
   
 </div>
 
