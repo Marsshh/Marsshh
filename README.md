@@ -2,11 +2,9 @@
 <h3 align="center">Full Stack web developer</h3>
 
 
-- [Personal Website](https://www.arnaumarsino.com)
+- My Personal [Website](https://www.arnaumarsino.com)
   
 - Currently studying on [ITICBCN](https://www.linkedin.com/school/iticbcn/)
-
-- I’m Open for an Intern or a new job opportunity **arnaumarsino1@gmail.com**
 
 
 
@@ -43,7 +41,22 @@
    <a href="https://react.dev/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="git" width="40" height="40"/> 
   </a>
+   <a href="https://tailwindcss.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
+   <a href="https://www.java.com/en/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="git" width="40" height="40"/> 
+  </a>
+   <a href="https://www.mongodb.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="git" width="40" height="40"/> 
+  </a>
+   <a href="https://www.postgresql.org/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" alt="git" width="40" height="40"/> 
+  </a>
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="git" width="40" height="40"/> 
+  </a>
+    <a href="https://www.php.net/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="git" width="40" height="40"/> 
   </a>
 </p>
