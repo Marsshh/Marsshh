@@ -47,8 +47,3 @@
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="git" width="40" height="40"/> 
   </a>
 </p>
-
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=BrantLauro&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrantLauro&theme=react&layout=compact" />
-</p>
