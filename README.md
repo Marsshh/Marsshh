@@ -2,19 +2,16 @@
 <h3 align="center">Full Stack web developer</h3>
 
 
-- My Personal [Website](https://www.arnaumarsino.com){:target="_blank"}
+- My Personal <a href="https://www.arnaumarsino.com" target="_blank">Website</a>
   
-- Currently studying on [ITICBCN](https://www.linkedin.com/school/iticbcn/){:target="_blank"}
-
-
-
+- Currently studying on <a href="https://www.linkedin.com/school/iticbcn/" target="_blank">ITICBCN</a>
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnau-marsino-747a43250/){:target="_blank"}
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnaumarsino1@gmail.com){:target="_blank"}
-  
+<a href="https://www.linkedin.com/in/arnau-marsino-747a43250/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:arnaumarsino1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+
 </div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
