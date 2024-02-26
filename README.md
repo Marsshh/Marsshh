@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Arnau 👋</h1>
-<h3 align="center">Full Stack web developer</h3>
+<h3 align="center">Full Stack developer</h3>
 
 
 - My Personal <a href="https://www.arnaumarsino.com" target="_blank">Website</a>
