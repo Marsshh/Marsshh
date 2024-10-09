@@ -2,9 +2,7 @@
 <h3 align="center">Full Stack developer</h3>
 
 
-- My Personal <a href="https://www.arnaumarsino.com" target="_blank">Website</a>
-  
-- Currently studying on <a href="https://www.linkedin.com/school/iticbcn/" target="_blank">ITICBCN</a>
+
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
